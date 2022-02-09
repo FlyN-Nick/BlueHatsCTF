@@ -2,6 +2,6 @@
 
 What are some common types of salads?
 
-**`SclvYrkj{trvjri_zemvekvu_zk}`**
+`SclvYrkj{trvjri_zemvekvu_zk}`
 
 Next challenge:
