@@ -3,8 +3,9 @@ import requests
 import time
 from os import path
 
-"""n_mins = 60 * 10
+n_mins = 60 * 10
 t_end = time.time() + (60 * n_mins)
+FLAG = ""
 
 while time.time() < t_end:
     r = requests.get('http://trumpipsum.net/?paras=99&type=make-it-great', verify=False)
@@ -16,7 +17,7 @@ while time.time() < t_end:
         text += para.text
     with open("./trump.txt", "a") as file:
         file.write(text)
-        print(str(path.getsize("./trump.txt")) + " bytes.")"""
+        print(str(path.getsize("./trump.txt")) + " bytes.")
 
-with open ("./trump.txt", "a") as file:
-    file.write("}HCRA35_3GUh{staHeulB is greater than ever before.")
+'''with open ("./trump.txt", "a") as file:
+    file.write(f"{FLAG} is greater than ever before.")'''
